@@ -31,10 +31,12 @@
 						<nav id="nav">
 							<ul>
 								<li><a href="index.html">Home</a></li>
-								<li><a href="#">News</a>
+								<li>
+									<a href="#">News</a>
 									<ul>
 										<li><a href="#">Lorem ipsum dolor</a></li>
-										<li><a href="#">And a submenu &hellip;</a>
+										<li>
+											<a href="#">And a submenu &hellip;</a>
 											<ul>
 												<li><a href="#">Lorem ipsum dolor</a></li>
 												<li><a href="#">Phasellus consequat</a></li>

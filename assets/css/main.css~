@@ -2211,12 +2211,11 @@
 		top: 0;
 		left: 0;
 		width: 100%;
-                color: #000;
+        color: #000;
 		text-align: center;
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
 		overflow: hidden;
-                font-size: 1.50em;
     
 			
 	}
@@ -2232,7 +2231,7 @@
 		}
 
 			#nav > ul:before, #nav > ul:after {
-            	                content: '';
+            	content: '';
 				display: block;
 				width: 300%;
 				position: absolute;
